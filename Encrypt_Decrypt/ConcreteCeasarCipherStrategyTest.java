@@ -1,6 +1,6 @@
 package Encrypt_Decrypt;
 
-//Methodes de tests, --> ConcreteCeasarCipherStrategy --> Alt+Entrée --> Create Test
+//Methodes de tests, --> ConcreteCeasarCipherStrategy --> Alt+Entrée --> Create Test.
 
 import static org.junit.jupiter.api.Assertions.*;
 
